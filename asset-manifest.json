@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/DinelnProject/static/css/main.5ce25a10.chunk.css",
+    "main.js": "/DinelnProject/static/js/main.9f5bb58c.chunk.js",
+    "main.js.map": "/DinelnProject/static/js/main.9f5bb58c.chunk.js.map",
+    "runtime-main.js": "/DinelnProject/static/js/runtime-main.deaa1aa4.js",
+    "runtime-main.js.map": "/DinelnProject/static/js/runtime-main.deaa1aa4.js.map",
+    "static/css/2.b544de60.chunk.css": "/DinelnProject/static/css/2.b544de60.chunk.css",
+    "static/js/2.eb781599.chunk.js": "/DinelnProject/static/js/2.eb781599.chunk.js",
+    "static/js/2.eb781599.chunk.js.map": "/DinelnProject/static/js/2.eb781599.chunk.js.map",
+    "static/js/3.d1286420.chunk.js": "/DinelnProject/static/js/3.d1286420.chunk.js",
+    "static/js/3.d1286420.chunk.js.map": "/DinelnProject/static/js/3.d1286420.chunk.js.map",
+    "index.html": "/DinelnProject/index.html",
+    "static/css/2.b544de60.chunk.css.map": "/DinelnProject/static/css/2.b544de60.chunk.css.map",
+    "static/css/main.5ce25a10.chunk.css.map": "/DinelnProject/static/css/main.5ce25a10.chunk.css.map",
+    "static/js/2.eb781599.chunk.js.LICENSE.txt": "/DinelnProject/static/js/2.eb781599.chunk.js.LICENSE.txt",
+    "static/media/Register.css": "/DinelnProject/static/media/BG_phone.9dc878c3.png",
+    "static/media/offer.css": "/DinelnProject/static/media/Mask.ce6b1cd3.png",
+    "static/media/ege.461b435f.png": "/DinelnProject/static/media/ege.461b435f.png",
+    "static/media/ice.ed23b9bb.png": "/DinelnProject/static/media/ice.ed23b9bb.png",
+    "static/media/p5.70e1c38c.png": "/DinelnProject/static/media/p5.70e1c38c.png",
+    "static/media/rate.ac402560.png": "/DinelnProject/static/media/rate.ac402560.png",
+    "static/media/s2.ed23b9bb.png": "/DinelnProject/static/media/s2.ed23b9bb.png",
+    "static/media/s3.d0aeec70.png": "/DinelnProject/static/media/s3.d0aeec70.png",
+    "static/media/x1.aab56f01.png": "/DinelnProject/static/media/x1.aab56f01.png",
+    "static/media/x2.038d61a5.png": "/DinelnProject/static/media/x2.038d61a5.png",
+    "static/media/x3.d97df9c3.png": "/DinelnProject/static/media/x3.d97df9c3.png",
+    "static/media/x4.b096b5cb.png": "/DinelnProject/static/media/x4.b096b5cb.png",
+    "static/media/x5.8c74269b.png": "/DinelnProject/static/media/x5.8c74269b.png",
+    "static/media/x6.1d828350.png": "/DinelnProject/static/media/x6.1d828350.png",
+    "static/media/x7.24878f31.png": "/DinelnProject/static/media/x7.24878f31.png",
+    "static/media/x8.d1cb79e6.png": "/DinelnProject/static/media/x8.d1cb79e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deaa1aa4.js",
+    "static/css/2.b544de60.chunk.css",
+    "static/js/2.eb781599.chunk.js",
+    "static/css/main.5ce25a10.chunk.css",
+    "static/js/main.9f5bb58c.chunk.js"
+  ]
+}
